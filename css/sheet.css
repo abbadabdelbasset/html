@@ -1,0 +1,50 @@
+	cite{
+         color: brown;
+         font-size: 15pt
+
+
+	}
+	body{
+         background-color:#ffe6e6;
+
+
+	}
+   blockquote{
+               color: green;
+               font-size: 23pt;
+               margin-left:2%;
+               margin-right:2%;
+
+                     }
+    
+     table{
+           background-color:#ffff99
+
+     }
+      table:hover{
+                  background-color:grey;
+
+     }     
+
+   #madara{
+   	       margin-right: 2%;
+   	       margin-left:2%;
+   }  
+    figure{
+    	margin-right:2%; 
+    	margin-left:2%;
+
+
+    }
+    figcaption{
+               position: middle;
+               padding-left: 180px;
+
+    }
+
+  .info:hover{
+              width: 50px;
+              height: 60px;           
+  }
+
+
